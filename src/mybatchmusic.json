@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Roxette"},
+                  "SongTitle": {"S": "Listen to Your Heart"},
+                  "AlbumTitle": {"S": "Look Sharp!"},
+                  "SongYear": {"S": "1988"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Roxette"},
+                  "SongTitle": {"S": "The Look"},
+                  "AlbumTitle": {"S": "Look Sharp!"},
+                  "SongYear": {"S": "1988"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Seal"},
+                  "SongTitle": {"S": "Crazy"},
+                  "AlbumTitle": {"S": "Seal"},
+                  "SongYear": {"S": "1991"}
+                }
+            }
+        }
+      ]
+}
